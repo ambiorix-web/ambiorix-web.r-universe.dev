@@ -1,0 +1,46 @@
+[
+  {
+    "package": "ambiorix",
+    "url": "https://github.com/ambiorix-web/ambiorix"
+  },
+  {
+    "package": "druid",
+    "url": "https://github.com/ambiorix-web/druid"
+  },
+  {
+    "package": "alesia",
+    "url": "https://github.com/ambiorix-web/alesia"
+  },
+  {
+    "package": "eburones",
+    "url": "https://github.com/ambiorix-web/eburones"
+  },
+  {
+    "package": "agris",
+    "url": "https://github.com/ambiorix-web/agris"
+  },
+  {
+    "package": "scilis",
+    "url": "https://github.com/ambiorix-web/scilis"
+  },
+  {
+    "package": "surf",
+    "url": "https://github.com/ambiorix-web/surf"
+  },
+  {
+    "package": "signaculum",
+    "url": "https://github.com/ambiorix-web/signaculum"
+  },
+  {
+    "package": "pugger",
+    "url": "https://github.com/ambiorix-web/pugger"
+  },
+  {
+    "package": "jader",
+    "url": "https://github.com/ambiorix-web/jader"
+  },
+  {
+    "package": "slighe",
+    "url": "https://github.com/ambiorix-web/slighe"
+  },
+]
